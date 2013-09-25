@@ -1,0 +1,10 @@
+Enhanced version of Flaskr.
+
+Powered by Flask (https://github.com/mitsuhiko/flask) and SQLite
+
+To install: visit http://flask.pocoo.org/
+
+Added:
+Multiple account support
+Creation of accounts
+Persistant database
